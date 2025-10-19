@@ -1,2 +1,21 @@
+# editor detritus
+*~
+.*sw?
+.vscode
+.idea
 
+# for https://github.com/hyperupcall/autoenv
+# (can use to automatically load a venv upon entering the repo dir)
+.autoenv
+
+# Python virtualenv for sedsed
+env/
+venv/
+
+# deployment stuff
 rsync
+
+# outputs of `make check`
+nohup.out
+*.pid
+linkchecker*

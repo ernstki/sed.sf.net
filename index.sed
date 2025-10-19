@@ -153,7 +153,7 @@ r               @[fbasename|fbasename.sed]@ [@[colored|@local/scripts/fbasename.
 r                @[fdirname|fdirname.sed]@ [@[colored|@local/scripts/fdirname.sed.html]@] by Carlos Jorge G. Duarte
 r                     @[fmt|fmt.sed]@ [@[colored|@local/scripts/fmt.sed.html]@] by Carlos Jorge G. Duarte
 r          @[get_html_title|get_html_title.sed]@ [@[colored|@local/scripts/get_html_title.sed.html]@] by Casper Boden-Cummins
-r                 @[hbanner|hbanner.sed]@ [nocolor] by Carlos Jorge G. Duarte
+r                 @[hbanner|hbanner.sh.txt]@ [nocolor] by Carlos Jorge G. Duarte
 r                    @[head|head.sed]@ [@[colored|@local/scripts/head.sed.html]@] by Paolo Bonzini
 r                @[html2iso|html2iso.sed]@ [@[colored|@local/scripts/html2iso.sed.html]@] by Paolo Bonzini
 r                 @[html_lc|html_lc.sed]@ [@[colored|@local/scripts/html_lc.sed.html]@] by Paolo Bonzini
@@ -170,6 +170,7 @@ r                 @[justify|justify.sed]@ [@[colored|@local/scripts/justify.sed.
 r               @[list_urls|list_urls.sed]@ [@[colored|@local/scripts/list_urls.sed.html]@] by Paolo Bonzini
 r            @[mail-iso2txt|mail-iso2txt.sed]@ [@[colored|@local/scripts/mail-iso2txt.sed.html]@] by Aurelio Jargas
 r                @[maketarg|maketarg.sed]@ [@[colored|@local/scripts/maketarg.sed.html]@] by Carlos Jorge G. Duarte
+r                @[makehelp|makehelp.sed]@ [nocolor] by Kevin Ernst
 r                @[masm2gas|masm2gas.sed]@ [@[colored|@local/scripts/masm2gas.sed.html]@] by Louis J. LaBash Jr.
 r                @[overstrk|overstrk.sed]@ [@[colored|@local/scripts/overstrk.sed.html]@] by ecbyahoo
 r              @[palindrome|palindrome.sed]@ [@[colored|@local/scripts/palindrome.sed.html]@] by Laurent Le Brun
